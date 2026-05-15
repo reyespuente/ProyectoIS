@@ -1,6 +1,6 @@
-import { CartItem } from './cart-item'
-import { CartTotal } from './cart-total'
-import { CartButton } from './cart-button'
+import { CartItem } from './cart-item.jsx'
+import { CartTotal } from './cart-total.jsx'
+import { CartButton } from './cart-button.jsx'
 
 export const Cart = () => {
   return (
@@ -11,7 +11,7 @@ export const Cart = () => {
       <CartItem />
       <CartTotal />
       <div className='bg-Rose-100 rounded-lg flex justify-center gap-1 p-4 mb-6'>
-        <img src="/public/assets/images/icon-carbon-neutral.svg" alt="" />
+        <img src="/cliente/public/images/icon-carbon-neutral.svg" alt="" />
         <p className='text-sm'>This is a <span className='font-bold'>carbon neutral</span> delivery</p>
       </div>
       <CartButton text="Confirm Order" />

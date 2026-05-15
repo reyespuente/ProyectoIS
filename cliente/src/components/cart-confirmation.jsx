@@ -1,6 +1,6 @@
-import { CartConfirmItem } from './cart-confirm-item'
-import { CartTotal } from './cart-total'
-import { CartButton } from './cart-button'
+import { CartConfirmItem } from './cart-confirm-item.jsx'
+import { CartTotal } from './cart-total.jsx'
+import { CartButton } from './cart-button.jsx'
 
 export const CartConfirmation = () => {
   return (

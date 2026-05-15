@@ -1,4 +1,4 @@
-import { ProductCard } from './product-card'
+import { ProductCard } from './product-card.jsx'
 import data from '../../data.json'
 
 export const CardsContainer = () => {

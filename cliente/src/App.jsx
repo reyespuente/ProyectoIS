@@ -1,6 +1,6 @@
-import { CardsContainer } from './components/cards-container'
-import { Cart } from './components/cart'
-import { CartConfirmation } from './components/cart-confirmation'
+import { CardsContainer } from './components/cards-container.jsx'
+import { Cart } from './components/cart.jsx'
+import { CartConfirmation } from './components/cart-confirmation.jsx'
 
 function App() {
   return (

@@ -2,7 +2,7 @@
 
 A product list with cart functionality that allows users to add, remove, and manage products easily.
 
-![Desktop Design](./public/assets/design/desktop-design-selected.jpg)
+![Desktop Design](publicssets/design/desktop-design-selected.jpg)
 
 The project is built with a mock data in JSON format, simulating a real-world scenario where you can add products to a shopping cart.
 
