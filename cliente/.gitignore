@@ -24,3 +24,6 @@ dist-ssr
 *.sw?
 
 servidor/config/db.js
+/servidor/node_modules/
+servidor/node_modules/
+servidor/node_modules
